@@ -1,3 +1,3 @@
 # SignLanguageClassification
 
-To run the code, Tensorflow environment setup is necessatry.
+To run the code, Tensorflow environment setup is necessary.
